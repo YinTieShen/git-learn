@@ -7,3 +7,6 @@ div{
     height: 200px;
     background-color: grey;
 }
+div#root{
+    background-color:blue ;
+}
